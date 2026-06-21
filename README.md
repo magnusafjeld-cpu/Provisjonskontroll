@@ -7,6 +7,9 @@ disse automatisk ved oppstart (offentlig raw-URL), så endringer her gjelder for
 Inneholder **ingen** persondata og **ingen** provisjonsbeløp — kun koder, mapping og
 gyldighetsperioder.
 
+Hentes av verktøyet fra:
+`https://raw.githubusercontent.com/magnusafjeld-cpu/Provisjonskontroll/main/regler`
+
 ## Filer (`regler/`)
 - `koder_tele.csv` — registeret over alle gyldige telecom-koder.
 - `abonnement_kode.csv` — portaltekst + salgsform → kode.
