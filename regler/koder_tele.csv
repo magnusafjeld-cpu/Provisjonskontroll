@@ -1,0 +1,195 @@
+kode;operator;kategori;betegnelse;imei;abo_type;gyldig_fra;gyldig_til;merknad
+TNFAST10GB;Telenor;abonnement;Telenor Fast 10GB;;;05.02.2025;;INGEN PROVISJON VED UTSTYRSENDRING AV 2G/3G TERMINALER.
+TNFAST5GB;Telenor;abonnement;Telenor Fast 5GB;;;05.02.2025;;INGEN PROVISJON VED UTSTYRSENDRING AV 2G/3G TERMINALER.Provisjonering gjelder eldre portefølje
+TNPLUSSEKS;Telenor;abonnement;Sikre Pluss Eksisterende Kunder;;;25/03/2026;;Endring til Sikre Pluss på eksisterende kunder kan gjøres uten IMEI registrering. 500,- pr.telefonnummer som flyttes til Sikre Pluss
+TNPLUSSUTS;Telenor;abonnement;TELENOR Sikre Pluss Utstyrsendring / Nysalg;;;25/03/2026;;INGEN PROVISJON VED UTSTYRSENDRING AV 2G/3G TERMINALER.
+TNSIKREEKS;Telenor;abonnement;Sikre Mobil Eksisterende Kunder;;;25/03/2026;;Endring til Sikre Mobil på eksisterende kunder kan gjøres uten IMEI registrering. 200,- pr.telefonnummer som flyttes til Sikre Mobil
+TNSIKREU13;Telenor;abonnement;TELENOR Sikre Mobil U13 Utstyrsendring / Nysalg;;;25/03/2026;;INGEN PROVISJON VED UTSTYRSENDRING AV 2G/3G TERMINALER.
+TNSIKREUTS;Telenor;abonnement;TELENOR Sikre Mobil Utstyrsendring / Nysalg;;;25/03/2026;;INGEN PROVISJON VED UTSTYRSENDRING AV 2G/3G TERMINALER.
+TNUBEGENKEL;Telenor;abonnement;Telenor Ubegrenset Enkel;;A;05.02.2025;;INGEN PROVISJON VED UTSTYRSENDRING AV 2G/3G TERMINALER.
+TNUBEGMAKS;Telenor;abonnement;Telenor Ubegrenset Maksimal;;A;05.02.2025;;INGEN PROVISJON VED UTSTYRSENDRING AV 2G/3G TERMINALER.
+TNUBEGNORMAL;Telenor;abonnement;Telenor Ubegrenset Normal;;A;05.02.2025;;INGEN PROVISJON VED UTSTYRSENDRING AV 2G/3G TERMINALER. Provisjonering gjelder eldre portefølje
+TNUBEGOPTIMAL;Telenor;abonnement;Telenor Ubegrenset Optimal;;A;05.02.2025;;INGEN PROVISJON VED UTSTYRSENDRING AV 2G/3G TERMINALER. Provisjonering gjelder eldre portefølje
+STNMBBLNY;Telenor;mbb;Telenor mbb L u/binding. Gjelder kun ved nytegning;;;2022-03-07 00:00:00;;Ikke til modem/router
+STNMBBMNY;Telenor;mbb;Telenor mbb M u/binding. Gjelder kun ved nytegning;;;2022-03-07 00:00:00;;Ikke til modem/router
+STNMBBSNY;Telenor;mbb;Telenor mbb S u/binding. Gjelder kun ved nytegning;;;2022-03-07 00:00:00;;Ikke til modem/router
+STNMBBXLNY;Telenor;mbb;Telenor mbb XL u/binding. Gjelder kun ved nytegning;;;2022-03-07 00:00:00;;Ikke til modem/router
+STNMBBXXLNY;Telenor;mbb;Telenor mbb XXL u/binding. Gjelder kun ved nytegning;;;2022-03-07 00:00:00;;Ikke til modem/router
+KLOKKESIM;Telenor;tilleggstjeneste;Tvilling-SIM til klokke;;;2023-09-01 00:00:00;;Gjelder kun ved registrering av IMEI på klokke i OneView
+PLUSSFORSIK;Telenor;tilleggstjeneste;Plussforsikring;;;2019-03-06 00:00:00;;
+PLUSSTAB;Telenor;tilleggstjeneste;Fullpris Plussforikring Tablet;;;2023-09-01 00:00:00;;NB! Kun ved salg av Tablet med IMEI
+SPLITTPLUSS;Telenor;tilleggstjeneste;SPLITT Plussforsikring;;;2025-04-02 00:00:00;;
+TELENOREKS;Telenor;tilleggstjeneste;Overdragelse av eksisterende abonnement til ny eier;;;;;
+TNDEMO;Telenor;tilleggstjeneste;Telenor Ambassadør;;;;;INGEN PROVISJON VED UTSTYRSENDRING AV 2G/3G TERMINALER.
+TNEKSTRASIM;Telenor;tilleggstjeneste;Telenor DataSIM (ikke tvilling) - inntjening på telecom;;;2023-06-06 00:00:00;;NB! Gjelder kun aktivering av DATA-SIM som ikke er inkludert i abonnement.
+TNKLOKKEFOR;Telenor;tilleggstjeneste;Klokkeforsikring;;;2023-09-01 00:00:00;;NB! Kun ved salg av klokke med IMEI
+TNSIKKERHET;Telenor;tilleggstjeneste;Telenor Sikkerhetssenter;;;;;Provisjon gjelder ved aktivering av Sikkerhetssenteret
+TNSVINHUS;Telenor;tilleggstjeneste;SVINDELFORSIKRING HUSSTAND;;;1.11.23;;Ingen provisjon for salg av Svindelforsikring til kunder som har SAFE eller ID-tyveriforsikring
+TEJR10GB;Telia;abonnement;TELIA JUNIOR 10GB uten avtaletid;NEI;C;2023-03-17 00:00:00;;EKSTRAKODER GJELDER IKKE PÅ DETTE ABONNEMENTET.
+TEJR10GBAVT;Telia;abonnement;TELIA JUNIOR 10GB avtaletid eller svitsj;NEI;C;2023-03-17 00:00:00;;Salg med SVITSJ eller binding. Ingen IMEI støtte
+TEJR1GB;Telia;abonnement;TELIA JUNIOR 1GB uten avtaletid;NEI;C;2023-03-17 00:00:00;;EKSTRAKODER GJELDER IKKE PÅ DETTE ABONNEMENTET.
+TEJR1GBAVT;Telia;abonnement;TELIA JUNIOR 1GB avtaletid eller svitsj;NEI;C;2023-03-17 00:00:00;;EKSTRAKODER GJELDER IKKE PÅ DETTE ABONNEMENTET.
+TELIAXBASIS;Telia;abonnement;TELIA X BASIS uten avtaletid;NEI;C;2023-03-17 00:00:00;;Nysalg uten binding, portering uten binding, gjelder ikke oppgradering av eksisterende Teliakunde
+TELIAXINTRO;Telia;abonnement;TELIA X INTRO uten avtaletid;NEI;C;1.9.25;;Nysalg uten binding, portering uten binding, gjelder ikke oppgradering av eksisterende Teliakunde
+TELIAXMAX;Telia;abonnement;TELIA X MAX uten avtaletid;NEI;C;2023-03-17 00:00:00;;Nysalg uten binding, portering uten binding, gjelder ikke oppgradering av eksisterende Teliakunde
+TELIAXMAXP;Telia;abonnement;TELIA X MAX PLUSS uten avtaletid;NEI;C;2023-03-17 00:00:00;;Nysalg uten binding, portering uten binding, gjelder ikke oppgradering av eksisterende Teliakunde
+TELIAXSTART;Telia;abonnement;TELIA X START uten avtaletid;NEI;C;2023-03-17 00:00:00;;Nysalg uten binding, portering uten binding, gjelder ikke oppgradering av eksisterende Teliakunde
+TELIAXUNG;Telia;abonnement;TELIA X UNG uten avtaletid;NEI;C;2023-03-17 00:00:00;;Nysalg uten binding, portering uten binding, gjelder ikke oppgradering av eksisterende Teliakunde
+TELIAXUNGAVT;Telia;abonnement;TELIA X UNG med avtaletid;JA;B;2023-03-17 00:00:00;;Salg med avtaletid
+TEMOBIL10AVT;Telia;abonnement;TELIA MOBIL 10GB med avtaletid;JA;B;2023-03-17 00:00:00;;Salg med avtaletid
+TEMOBIL10GB;Telia;abonnement;TELIA MOBIL 10GB uten avtaletid;NEI;C;2023-03-17 00:00:00;;Nysalg uten binding, portering uten binding, gjelder ikke oppgradering av eksisterende Teliakunde
+TEMOBIL5GB;Telia;abonnement;TELIA MOBIL 5GB uten avtaletid;NEI;C;2022-12-04 00:00:00;;Nysalg uten binding, portering uten binding, gjelder ikke oppgradering av eksisterende Teliakunde
+TEMOBIL5GBAVT;Telia;abonnement;TELIA MOBIL 5GB med avtaletid;JA;B;2022-12-04 00:00:00;;Salg med avtaletid
+TEUNG10GB;Telia;abonnement;TELIA UNG 10GB uten avtaletid;NEI;C;2024-11-11 00:00:00;;Nysalg uten binding, portering uten binding, gjelder ikke oppgradering av eksisterende Teliakunde
+TEUNG10GBAVT;Telia;abonnement;TELIA UNG 10GB med avtaletid;JA;B;2024-11-11 00:00:00;;Salg med avtaletid
+TEXBASISAVT;Telia;abonnement;TELIA X BASIS med avtaletid;JA;A;2023-03-17 00:00:00;;Salg med avtaletid
+TEXMAXAVT;Telia;abonnement;TELIA X MAX med avtaletid;JA;A;2023-03-17 00:00:00;;Salg med avtaletid
+TEXMAXPAVT;Telia;abonnement;TELIA X MAX PLUSS med avtaletid;JA;A;2023-03-17 00:00:00;;Salg med avtaletid
+TEXSTART12379;Telia;abonnement;TELIA X Kampanje med avtaletid (379,-);JA;A;2026-06-08 00:00:00;31.08;Gjelder kun nysalg, utløser ikke familierabatt. Selges med tilbehørsbinding eller terminalbinding
+TEXSTART12KAM;Telia;abonnement;TELIA X Kampanje med avtaletid (399,-);JA;A;2026-05-04 00:00:00;;Gjelder kun nysalg, utløser ikke familierabatt. Selges med tilbehørsbinding eller terminalbinding
+TEXSTARTAVT;Telia;abonnement;TELIA X START med avtaletid;JA;A;2023-03-17 00:00:00;;Salg med avtaletid
+TEXVIAAVT;Telia;abonnement;TELIA X VIAPLAY med avtaletid;JA;A;2024-06-18 00:00:00;;Salg med avtaletid
+TEXVIAPLAY;Telia;abonnement;TELIA X VIAPLAY uten avtaletid;NEI;C;2024-06-18 00:00:00;;Nysalg uten binding, portering uten binding, gjelder ikke oppgradering av eksisterende Teliakunde
+TEXVIARAB;Telia;abonnement;TELIA X VIAPLAY ÅRSAVTALE;NEI;B;2024-06-18 00:00:00;;Årsavtale (BLACK WEEK TILBUD)
+TEDELBET1000;Telia;delbetaling;TELIA Fleksibel delbetaling 1000 6, 12, 18, 24 MND;;;;;
+TEDELBET10000;Telia;delbetaling;TELIA Fleksibel delbetaling 10000 6, 12, 18, 24 MND;;;;;
+TEDELBET10500;Telia;delbetaling;TELIA Fleksibel delbetaling 10500 6, 12, 18, 24 MND;;;;;
+TEDELBET11000;Telia;delbetaling;TELIA Fleksibel delbetaling 11000 6, 12, 18, 24 MND;;;;;
+TEDELBET11500;Telia;delbetaling;TELIA Fleksibel delbetaling 11500 6, 12, 18, 24 MND;;;;;
+TEDELBET12000;Telia;delbetaling;TELIA Fleksibel delbetaling 12000 6, 12, 18, 24 MND;;;;;
+TEDELBET12500;Telia;delbetaling;TELIA Fleksibel delbetaling 12500 6, 12, 18, 24 MND;;;;;
+TEDELBET13000;Telia;delbetaling;TELIA Fleksibel delbetaling 13000 6, 12, 18, 24 MND;;;;;
+TEDELBET13500;Telia;delbetaling;TELIA Fleksibel delbetaling 13500 6, 12, 18, 24 MND;;;;;
+TEDELBET14000;Telia;delbetaling;TELIA Fleksibel delbetaling 14000 6, 12, 18, 24 MND;;;;;
+TEDELBET14500;Telia;delbetaling;TELIA Fleksibel delbetaling 14500 6, 12, 18, 24 MND;;;;;
+TEDELBET1500;Telia;delbetaling;TELIA Fleksibel delbetaling 1500 6, 12, 18, 24 MND;;;;;
+TEDELBET15000;Telia;delbetaling;TELIA Fleksibel delbetaling 15000 6, 12, 18, 24 MND;;;;;
+TEDELBET15500;Telia;delbetaling;TELIA Fleksibel delbetaling 15500 6, 12, 18, 24 MND;;;;;
+TEDELBET16000;Telia;delbetaling;TELIA Fleksibel delbetaling 16000 6, 12, 18, 24 MND;;;;;
+TEDELBET16500;Telia;delbetaling;TELIA Fleksibel delbetaling 16500 6, 12, 18, 24 MND;;;;;
+TEDELBET17000;Telia;delbetaling;TELIA Fleksibel delbetaling 17000 6, 12, 18, 24 MND;;;;;
+TEDELBET17500;Telia;delbetaling;TELIA Fleksibel delbetaling 17500 6, 12, 18, 24 MND;;;;;
+TEDELBET18000;Telia;delbetaling;TELIA Fleksibel delbetaling 18000 6, 12, 18, 24 MND;;;;;
+TEDELBET18500;Telia;delbetaling;TELIA Fleksibel delbetaling 18500 6, 12, 18, 24 MND;;;;;
+TEDELBET19000;Telia;delbetaling;TELIA Fleksibel delbetaling 19000 6, 12, 18, 24 MND;;;;;
+TEDELBET19500;Telia;delbetaling;TELIA Fleksibel delbetaling 19500 6, 12, 18, 24 MND;;;;;
+TEDELBET2000;Telia;delbetaling;TELIA Fleksibel delbetaling 2000 6, 12, 18, 24 MND;;;;;
+TEDELBET20000;Telia;delbetaling;TELIA Fleksibel delbetaling 20000 6, 12, 18, 24 MND;;;;;
+TEDELBET20500;Telia;delbetaling;TELIA Fleksibel delbetaling 20500 6, 12, 18, 24 MND;;;;;
+TEDELBET21000;Telia;delbetaling;TELIA Fleksibel delbetaling 21000 6, 12, 18, 24 MND;;;;;
+TEDELBET21500;Telia;delbetaling;TELIA Fleksibel delbetaling 21500 6, 12, 18, 24 MND;;;;;
+TEDELBET22000;Telia;delbetaling;TELIA Fleksibel delbetaling 22000 6, 12, 18, 24 MND;;;;;
+TEDELBET22500;Telia;delbetaling;TELIA Fleksibel delbetaling 22500 6, 12, 18, 24 MND;;;;;
+TEDELBET23000;Telia;delbetaling;TELIA Fleksibel delbetaling 23000 6, 12, 18, 24 MND;;;;;
+TEDELBET23500;Telia;delbetaling;TELIA Fleksibel delbetaling 23500 6, 12, 18, 24 MND;;;;;
+TEDELBET24000;Telia;delbetaling;TELIA Fleksibel delbetaling 24000 6, 12, 18, 24 MND;;;;;
+TEDELBET24500;Telia;delbetaling;TELIA Fleksibel delbetaling 24500 6, 12, 18, 24 MND;;;;;
+TEDELBET2500;Telia;delbetaling;TELIA Fleksibel delbetaling 2500 6, 12, 18, 24 MND;;;;;
+TEDELBET25000;Telia;delbetaling;TELIA Fleksibel delbetaling 25000 6, 12, 18, 24 MND;;;;;
+TEDELBET25500;Telia;delbetaling;TELIA Fleksibel delbetaling 25500 6, 12, 18, 24 MND;;;;;
+TEDELBET26000;Telia;delbetaling;TELIA Fleksibel delbetaling 26000 6, 12, 18, 24 MND;;;;;
+TEDELBET26500;Telia;delbetaling;TELIA Fleksibel delbetaling 26500 6, 12, 18, 24 MND;;;;;
+TEDELBET27000;Telia;delbetaling;TELIA Fleksibel delbetaling 27000 6, 12, 18, 24 MND;;;;;
+TEDELBET27500;Telia;delbetaling;TELIA Fleksibel delbetaling 27500 6, 12, 18, 24 MND;;;;;
+TEDELBET28000;Telia;delbetaling;TELIA Fleksibel delbetaling 28000 6, 12, 18, 24 MND;;;;;
+TEDELBET28500;Telia;delbetaling;TELIA Fleksibel delbetaling 28500 6, 12, 18, 24 MND;;;;;
+TEDELBET29000;Telia;delbetaling;TELIA Fleksibel delbetaling 29000 6, 12, 18, 24 MND;;;;;
+TEDELBET29500;Telia;delbetaling;TELIA Fleksibel delbetaling 29000 6, 12, 18, 24 MND;;;;;
+TEDELBET3000;Telia;delbetaling;TELIA Fleksibel delbetaling 3000 6, 12, 18, 24 MND;;;;;
+TEDELBET30000;Telia;delbetaling;TELIA Fleksibel delbetaling 20000 6, 12, 18, 24 MND;;;;;
+TEDELBET3500;Telia;delbetaling;TELIA Fleksibel delbetaling 3500 6, 12, 18, 24 MND;;;;;
+TEDELBET4000;Telia;delbetaling;TELIA Fleksibel delbetaling 4000 6, 12, 18, 24 MND;;;;;
+TEDELBET4500;Telia;delbetaling;TELIA Fleksibel delbetaling 4500 6, 12, 18, 24 MND;;;;;
+TEDELBET500;Telia;delbetaling;TELIA Fleksibel delbetaling 500 6, 12, 18, 24 MND;;;;;
+TEDELBET5000;Telia;delbetaling;TELIA Fleksibel delbetaling 5000 6, 12, 18, 24 MND;;;;;
+TEDELBET5500;Telia;delbetaling;TELIA Fleksibel delbetaling 5500 6, 12, 18, 24 MND;;;;;
+TEDELBET6000;Telia;delbetaling;TELIA Fleksibel delbetaling 6000 6, 12, 18, 24 MND;;;;;
+TEDELBET6500;Telia;delbetaling;TELIA Fleksibel delbetaling 6500 6, 12, 18, 24 MND;;;;;
+TEDELBET7000;Telia;delbetaling;TELIA Fleksibel delbetaling 7000 6, 12, 18, 24 MND;;;;;
+TEDELBET7500;Telia;delbetaling;TELIA Fleksibel delbetaling 7500 6, 12, 18, 24 MND;;;;;
+TEDELBET8000;Telia;delbetaling;TELIA Fleksibel delbetaling 8000 6, 12, 18, 24 MND;;;;;
+TEDELBET8500;Telia;delbetaling;TELIA Fleksibel delbetaling 8500 6, 12, 18, 24 MND;;;;;
+TEDELBET9000;Telia;delbetaling;TELIA Fleksibel delbetaling 9000 6, 12, 18, 24 MND;;;;;
+TEDELBET9500;Telia;delbetaling;TELIA Fleksibel delbetaling 9500 6, 12, 18, 24 MND;;;;;
+SNC200;Telia;imei;IMEI-støtte 200,- (terminalbinding, fra IMEI-arket);JA;;;;Registreres pr. modell ved 12 mnd terminalbinding. Se imei_modell.csv.
+SNC400;Telia;imei;IMEI-støtte 400,- (terminalbinding, fra IMEI-arket);JA;;;;Registreres pr. modell ved 12 mnd terminalbinding. Se imei_modell.csv.
+DTEMB100GB;Telia;mbb;MBB 100GB nytegning og oppgradering med 12mnd binding for Dataprodukter;JA;;;;
+DTEMB10GB;Telia;mbb;MBB 10GB nytegning og oppgradering med 12mnd binding for Dataprodukter;JA;;;;
+DTEMB250GB;Telia;mbb;MBB 250GB nytegning og oppgradering med 12mnd binding for Dataprodukter;JA;;;;
+DTEMB25GB;Telia;mbb;MBB 25GB nytegning og oppgradering med 12mnd binding for Dataprodukter;JA;;;;
+DTEMB500GB;Telia;mbb;MBB 500GB nytegning og oppgradering med 12mnd binding for Dataprodukter;JA;;;;
+DTEMB50GB;Telia;mbb;MBB 50GB nytegning og oppgradering med 12mnd binding for Dataprodukter;JA;;;;
+DTEMBNY;Telia;mbb;MBB nytegning uten binding på 10GB for Dataprodukter;NEI;;;;
+DTEMBNY1;Telia;mbb;MBB nytegning uten binding på 25 og 50 GB for Dataprodukter;NEI;;;;
+DTEMBNY2;Telia;mbb;MBB nytegning uten binding på 100, 250 og 500 GB for Dataprodukter;NEI;;;;
+SNCMBFRIDATA;Telia;mbb;Fri fart på 4G Bredbånd 7/15/30 GB;;;;;Ingen bindingstid, med mnd avgift
+SNCMBXTRDATA1;Telia;mbb;Ekstra DataSIM på 4G Bredbånd 15/30/50/100/200 GB;;;;;Ingen bindingstid, med mnd avgift
+TEMB100GB;Telia;mbb;MBB 100GB nytegning og oppgradering med 12mnd binding;JA;;;;
+TEMB10GB;Telia;mbb;MBB 10GB nytegning og oppgradering med 12mnd binding;JA;;;;
+TEMB250GB;Telia;mbb;MBB 250GB nytegning og oppgradering med 12mnd binding;JA;;;;
+TEMB25GB;Telia;mbb;MBB 25GB nytegning og oppgradering med 12mnd binding;JA;;;;
+TEMB500GB;Telia;mbb;MBB 500GB nytegning og oppgradering med 12mnd binding;JA;;;;
+TEMB50GB;Telia;mbb;MBB 50GB nytegning og oppgradering med 12mnd binding;JA;;;;
+TEMBNY;Telia;mbb;MBB nytegning uten binding på 10GB;NEI;;;;
+TEMBNY1;Telia;mbb;MBB nytegning uten binding på 25 og 50 GB;NEI;;;;
+TEMBNY2;Telia;mbb;MBB nytegning uten binding på 100, 250 og 500 GB;NEI;;;;
+TE10GBTILEKS;Telia;tilbehorsbinding;TELIA 10GB TILBEHØRSBINDING, EKSISTERENDE;;B;2023-03-17 00:00:00;;
+TE10GBTILNY;Telia;tilbehorsbinding;TELIA 10GB TILBEHØRSBINDING, NY;;B;2023-03-17 00:00:00;;
+TE5GBTILEKS;Telia;tilbehorsbinding;TELIA 5GB TILBEHØRSBINDING, EKSISTERENDE;;B;2022-11-14 00:00:00;;
+TE5GBTILNY;Telia;tilbehorsbinding;TELIA 5GB TILBEHØRSBINDING, NY;;B;2022-11-14 00:00:00;;
+TEJR1GBTILEKS;Telia;tilbehorsbinding;TELIA JUNIOR 1GB TILBEHØRSBINDING, EKSISTERENDE;;C;2023-03-17 00:00:00;;
+TEJR1GBTILNY;Telia;tilbehorsbinding;TELIA JUNIOR 1GB TILBEHØRSBINDING, NY;;C;2023-03-17 00:00:00;;
+TEJR5GBTILEKS;Telia;tilbehorsbinding;TELIA JUNIOR 5GB TILBEHØRSBINDING, EKSISTERENDE;;C;2023-03-17 00:00:00;;
+TEJR5GBTILNY;Telia;tilbehorsbinding;TELIA JUNIOR 5GB TILBEHØRSBINDING, NY;;C;2023-03-17 00:00:00;;
+TEXBASTILEKS;Telia;tilbehorsbinding;TELIA X BASIS TILBEHØRSBINDING, EKSISTERENDE;;B;2023-03-17 00:00:00;;
+TEXBASTILNY;Telia;tilbehorsbinding;TELIA X BAS TILBEHØRSBINDING, NY;;A;2023-03-17 00:00:00;;
+TEXMAXPTILEKS;Telia;tilbehorsbinding;TELIA X MAX PLUSS TILBEHØRSBINDING, EKSISTERENDE;;B;2023-03-17 00:00:00;;
+TEXMAXPTILNY;Telia;tilbehorsbinding;TELIA X MAX PLUSS TILBEHØRSBINDING, NY;;A;2023-03-17 00:00:00;;
+TEXMAXTILEKS;Telia;tilbehorsbinding;TELIA X MAX TILBEHØRSBINDING, EKSISTERENDE;;B;2023-03-17 00:00:00;;
+TEXMAXTILNY;Telia;tilbehorsbinding;TELIA X MAX TILBEHØRSBINDING, NY;;A;2023-03-17 00:00:00;;
+TEXSTATILEKS;Telia;tilbehorsbinding;TELIA X START TILBEHØRSBINDING, EKSISTERENDE;;B;2023-03-17 00:00:00;;
+TEXSTATILNY;Telia;tilbehorsbinding;TELIA X START TILBEHØRSBINDING, NY;;A;2023-03-17 00:00:00;;
+TEXUNGTILEKS;Telia;tilbehorsbinding;TELIA X UNG TILBEHØRSBINDING, EKSISTERENDE;;B;2023-03-17 00:00:00;;
+TEXUNGTILNY;Telia;tilbehorsbinding;TELIA X UNG TILBEHØRSBINDING, NY;;A;2023-03-17 00:00:00;;
+TEXVIATILBEKS;Telia;tilbehorsbinding;TELIA X VIAPLAY TILBEHØRSBINDING, EKSISTERENDE;;B;2024-06-18 00:00:00;;
+TEXVIATILBNY;Telia;tilbehorsbinding;TELIA X VIAPLAY TILBEHØRSBINDING, NY;;A;2024-06-18 00:00:00;;
+DSNC200;Telia;tilleggstjeneste;Imeistøtte på 200,- som kicker på datasektor;;;;;
+DSNC500;Telia;tilleggstjeneste;Imeistøtte på 500,- som kicker på datasektor;;;;;
+SNCFORSLARGE;Telia;tilleggstjeneste;Forsikring Large / Xl;NEI;;;;Ingen bindingstid og kan ikke kombineres med Svitsj
+SNCFORSMED;Telia;tilleggstjeneste;Forsikring Medium;NEI;;;;Ingen bindingstid og kan ikke kombineres med Svitsj
+SNCFORSSMALL;Telia;tilleggstjeneste;Forsikring Small;NEI;;;;Ingen bindingstid og kan ikke kombineres med Svitsj
+SICEJR3GB;ice;abonnement;Ice Junior 3 GB;;;;;UTEN BINDING
+SICELAN12GB;ice;abonnement;ICE MOBIL 12GB;;;;;UTEN BINDING
+SICELAN12GB12;ice;abonnement;ICE MOBIL 12GB - 12 MND AVTALETID;;;;;12 MND BINDING | MÅ BINDES OPP TIL EN 4G TERMINAL
+SICELAN18GB;ice;abonnement;ICE MOBIL 18GB;;;2.06;;UTEN BINDING
+SICELAN18GB12;ice;abonnement;ICE MOBIL 18GB- 12 MND AVTALETID;;;2.06;;12 MND BINDING | MÅ BINDES OPP TIL EN 4G TERMINAL
+SICELAN20GB;ice;abonnement;ICE MOBIL 20GB;;;;;UTEN BINDING
+SICELAN20GB12;ice;abonnement;ICE MOBIL 20GB - 12 MND AVTALETID;;;;;12 MND BINDING | MÅ BINDES OPP TIL EN 4G TERMINAL
+SICELAN2GB;ice;abonnement;ICE MOBIL 2GB;;;;;UTEN BINDING
+SICELAN35GB;ice;abonnement;ICE MOBIL 35GB;;;;;UTEN BINDING
+SICELAN35GB12;ice;abonnement;ICE MOBIL 35GB - 12 MND AVTALETID;;;;;12 MND BINDING | MÅ BINDES OPP TIL EN 4G TERMINAL
+SICELAN5GB;ice;abonnement;ICE MOBIL 5GB;;;2.06;;UTEN BINDING
+SICELAN5GB12;ice;abonnement;ICE MOBIL 5GB- 12 MND AVTALETID;;;2.06;;12 MND BINDING | MÅ BINDES OPP TIL EN 4G TERMINAL
+SICELAN6GB;ice;abonnement;ICE MOBIL 6GB;;;;;UTEN BINDING
+SICELANKJENT;ice;abonnement;ICE MOBIL BLI KJENT;;;;;UTEN BINDING
+SICEMAX;ice;abonnement;ICE MAX 349 - UTEN AVTALETID;;;3.3;8.4;UTEN BINDING - Kampanje 349,- for iceMax i 12 md. for NYE kunder
+SICEMAX12;ice;abonnement;ICE MAX 399 - MED 12 MND AVTALETID;;;;;12 MND BINDING | MÅ BINDES OPP TIL EN 4G TERMINAL
+SICEMAXNET;ice;abonnement;ICE MAX MED NETFLIX;;;;;
+SICEMAXNET12;ice;abonnement;ICE MAX MED NETFLIX 12 MND AVTALETID;;;;;
+SICESUPER60;ice;abonnement;ICE SUPER 60 GB - UTEN BINDING;;;5.06;19.01;KUN NYE KUNDER - HUSK RABATTREGLER!
+SICEUMAXNET;ice;abonnement;ICE UNG MAX MED NETFLIX;;;;;
+SICEUMAXNET12;ice;abonnement;ICE UNG MAX MED NETFLIX 12 MND AVTALETID;;;;;
+SICEUNG12GB;ice;abonnement;ICE UNG 12GB;;;;;OPPTIL 29 ÅR - UTEN BINDING
+SICEUNG12GB12;ice;abonnement;ICE UNG 12GB - 12 MND AVTALETID;;;;;OPPTIL 29 ÅR - 12 MND BINDING | MÅ BINDES OPP TIL EN 4G TERMINAL
+SICEUNG18GB;ice;abonnement;ICE UNG 18GB;;;2.06;;OPPTIL 29 ÅR - UTEN BINDING
+SICEUNG18GB12;ice;abonnement;ICE UNG 18GB - 12 MND AVTALETID;;;2.06;;OPPTIL 29 ÅR - 12 MND BINDING | MÅ BINDES OPP TIL EN 4G TERMINAL
+SICEUNG20GB;ice;abonnement;ICE UNG 20GB;;;;;OPPTIL 29 ÅR - UTEN BINDING
+SICEUNG20GB12;ice;abonnement;ICE UNG 20GB - 12 MND AVTALETID;;;;;OPPTIL 29 ÅR - 12 MND BINDING | MÅ BINDES OPP TIL EN 4G TERMINAL
+SICEUNG35GB;ice;abonnement;ICE UNG 35GB;;;;;OPPTIL 29 ÅR - UTEN BINDING
+SICEUNG35GB12;ice;abonnement;ICE UNG 35GB - 12 MND AVTALETID;;;;;OPPTIL 29 ÅR - 12 MND BINDING | MÅ BINDES OPP TIL EN 4G TERMINAL
+SICEUNG5GB;ice;abonnement;ICE UNG 5GB;;;2.06;;OPPTIL 29 ÅR - UTEN BINDING
+SICEUNG5GB12;ice;abonnement;ICE UNG 5GB - 12 MND AVTALETID;;;;;OPPTIL 29 ÅR - 12 MND BINDING | MÅ BINDES OPP TIL EN 4G TERMINAL
+SICEUNG6GB;ice;abonnement;ICE UNG 6GB;;;;;OPPTIL 29 ÅR - UTEN BINDING
+SICEUNGMAX;ice;abonnement;ICE UNG MAX 349- UTEN AVTALETID;;;11.03;;OPPTIL 29 ÅR - UTEN BINDING
+SICEUNGMAX12;ice;abonnement;ICE UNG MAX 349 - MED 12 MND AVTALETID;;;;;OPPTIL 29 ÅR - 12 MND BINDING | MÅ BINDES OPP TIL EN 4G TERMINAL
+SICEFAMILIE;ice;tilleggstjeneste;ICE Familieprovisjon FOR NYE KUNDER;;;;;300,- pr NYSALG når det er 2 eller fler nysalg på samme ordre
