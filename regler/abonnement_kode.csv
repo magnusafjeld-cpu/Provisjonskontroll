@@ -44,6 +44,7 @@ Telia;telia junior 10gb;uten;any;TEJR10GB;;;
 Telia;telia junior 10gb;terminal;any;TEJR10GBAVT;;;
 ice;icemax;uten;any;SICEMAX;;;iceMax Kampanje 12 mnd = RABATT (ikke binding) -> SICEMAX
 ice;icemax;binding;any;SICEMAX12;;;iceMax med terminalbinding -> ...12
+ice;icejunior 3 gb;uten;any;SICEJR3GB;;;iceJunior 3 GB (barneabonnement, nytt nummer)
 ice;mobil 5 gb;uten;any;SICELAN5GB;;;
 ice;mobil 5 gb;binding;any;SICELAN5GB12;;;
 ice;mobil 18 gb;uten;any;SICELAN18GB;;;
