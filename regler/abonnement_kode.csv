@@ -11,6 +11,8 @@ Telia;telia x start;uten;any;TELIAXSTART;;;
 Telia;telia x start;terminal;any;TEXSTARTAVT;;;
 Telia;telia x start;tilbehor;ny;TEXSTATILNY;;;
 Telia;telia x start;tilbehor;eks;TEXSTATILEKS;;;
+Telia;telia x kampanje kr 379;terminal;any;TEXSTART12379;;;Telia X Kampanje 379,- med telefon+avtaletid (pris i teksten styrer koden)
+Telia;telia x kampanje kr 399;terminal;any;TEXSTART12KAM;;;Telia X Kampanje 399,- med telefon+avtaletid
 Telia;telia x basis;uten;any;TELIAXBASIS;;;
 Telia;telia x basis;terminal;any;TEXBASISAVT;;;
 Telia;telia x basis;tilbehor;ny;TEXBASTILNY;;;
