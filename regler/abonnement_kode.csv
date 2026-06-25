@@ -46,6 +46,8 @@ Telia;telia junior 10gb;tilbehor;ny;TE10GBTILNY;;;ingen egen TEJR10GB-tilbehørs
 Telia;telia junior 10gb;tilbehor;eks;TE10GBTILEKS;;;ingen egen TEJR10GB-tilbehørskode → bruk generisk TELIA 10GB
 ice;icemax;uten;any;SICEMAX;;;iceMax Kampanje 12 mnd = RABATT (ikke binding) -> SICEMAX
 ice;icemax;binding;any;SICEMAX12;;;iceMax med terminalbinding -> ...12
+ice;icemax med netflix;uten;any;SICEMAXNET;;;iceMax med Netflix uten binding (lengre monster vinner over icemax)
+ice;icemax med netflix;binding;any;SICEMAXNET12;;;iceMax med Netflix med binding -> ...NET12
 ice;icejunior 3 gb;uten;any;SICEJR3GB;;;iceJunior 3 GB (barneabonnement, nytt nummer)
 ice;mobil 5 gb;uten;any;SICELAN5GB;;;
 ice;mobil 5 gb;binding;any;SICELAN5GB12;;;
