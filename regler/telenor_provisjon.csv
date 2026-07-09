@@ -2,8 +2,8 @@ monster;abonnementstype;ordretype;kode;merknad
 sikre;sikre mobil u13;any;TNSIKREU13;Bekreft eksakt Abonnementstype-streng for U13 mot ekte ordre
 sikre;sikre mobil pluss;uts;TNPLUSSUTS;
 sikre;sikre mobil pluss;eks;TNPLUSSEKS;
-sikre;sikre mobil;uts;TNSIKREUTS;
-sikre;sikre mobil;eks;TNSIKREEKS;
+sikre;sikre mobil;uts;TNSIKREUTS;BEKREFTET: vanlig utstyrsendring (salg av mobil). Provisjon-suffiks Utstyrsendring/Nysalg/Innportering
+sikre;sikre mobil;eks;TNSIKREEKS;BEKREFTET: kun endring av vanlig abo til Sikre Mobil (Provisjon-suffiks Abonnementsendring)
 ubegrenset enkel;any;any;TNUBEGENKEL;
 ubegrenset normal;any;any;TNUBEGNORMAL;
 ubegrenset optimal;any;any;TNUBEGOPTIMAL;
@@ -11,8 +11,9 @@ ubegrenset maksimal;any;any;TNUBEGMAKS;
 fast 5gb;any;any;TNFAST5GB;
 fast 10gb;any;any;TNFAST10GB;
 data-sim;any;any;TNEKSTRASIM;
-sikkerhetssenter;any;any;TNSIKKERHET;
+sikkerhetssenter;any;any;TNSIKKERHET;BEKREFTET: aktivering av Sikkerhetssenter FOERSTE gang (foerste sikre kunde i familie eller alene). Provisjon lister det kun ved forstegangsaktivering
 plussforsikring;any;any;PLUSSFORSIK;
+plussforsikring tablet;any;any;PLUSSTAB;Tablet-forsikring. Lengre monster enn 'plussforsikring' -> vinner tiebreak. Bekreft eksakt Provisjon-tekst mot ekte ordre
 klokkeforsikring;any;any;TNKLOKKEFOR;Bekreft eksakt Provisjon-tekst mot ekte ordre
 splitt plussforsikring;any;any;SPLITTPLUSS;Bekreft eksakt Provisjon-tekst mot ekte ordre
 tvilling;any;any;KLOKKESIM;Bekreft eksakt Provisjon-tekst mot ekte ordre
