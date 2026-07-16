@@ -11,9 +11,10 @@ ubegrenset maksimal;any;any;TNUBEGMAKS;
 fast 5gb;any;any;TNFAST5GB;
 fast 10gb;any;any;TNFAST10GB;
 data-sim;any;any;TNEKSTRASIM;
-sikkerhetssenter;any;any;TNSIKKERHET;BEKREFTET: aktivering av Sikkerhetssenter FOERSTE gang (foerste sikre kunde i familie eller alene). Provisjon lister det kun ved forstegangsaktivering
+sikkerhetssenter;any;any;TNSIKKERHET;BEKREFTET: Sikkerhetssenter foerste gang (foerste sikre kunde i familie/alene). Egen NUMMERLOES ordre Sikkerhetssenter 600 i OneView - knyttes til familien via eier-navn i telenor._knytt_nummerlose_til_familie
 plussforsikring;any;any;PLUSSFORSIK;
 plussforsikring tablet;any;any;PLUSSTAB;Tablet-forsikring. Lengre monster enn 'plussforsikring' -> vinner tiebreak. Bekreft eksakt Provisjon-tekst mot ekte ordre
+nettbrettforsikring;any;any;PLUSSTAB;BEKREFTET mot ekte ordre 16.07 (Magnus): Provisjon-linjen heter Nettbrettforsikring (400)
 klokkeforsikring;any;any;TNKLOKKEFOR;Bekreft eksakt Provisjon-tekst mot ekte ordre
 splitt plussforsikring;any;any;SPLITTPLUSS;Bekreft eksakt Provisjon-tekst mot ekte ordre
 tvilling;any;any;KLOKKESIM;Bekreft eksakt Provisjon-tekst mot ekte ordre
