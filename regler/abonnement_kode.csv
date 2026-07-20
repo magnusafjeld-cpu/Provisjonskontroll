@@ -34,6 +34,7 @@ Telia;telia x viaplay;terminal;any;TEXVIAAVT;;;
 Telia;telia x viaplay;tilbehor;ny;TEXVIATILBNY;;;
 Telia;telia x viaplay;tilbehor;eks;TEXVIATILBEKS;;;
 Telia;telia x intro;uten;any;TELIAXINTRO;;;
+Telia;telia trygg;any;any;TELIATRYGG;;;Telia Trygg star der prisplanen ellers star (Magnus 2026-07-20) - egen kode pr. abonnement som har den, uavhengig av binding/kundetype
 Telia;telia ung 10gb;uten;any;TEUNG10GB;;;
 Telia;telia ung 10gb;terminal;any;TEUNG10GBAVT;;;
 Telia;telia junior 1gb;uten;any;TEJR1GB;;;

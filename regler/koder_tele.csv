@@ -29,6 +29,7 @@ TEJR10GB;Telia;abonnement;TELIA JUNIOR 10GB uten avtaletid;NEI;C;2023-03-17 00:0
 TEJR10GBAVT;Telia;abonnement;TELIA JUNIOR 10GB avtaletid eller svitsj;NEI;C;2023-03-17 00:00:00;;Salg med SVITSJ eller binding. Ingen IMEI støtte
 TEJR1GB;Telia;abonnement;TELIA JUNIOR 1GB uten avtaletid;NEI;C;2023-03-17 00:00:00;;EKSTRAKODER GJELDER IKKE PÅ DETTE ABONNEMENTET.
 TEJR1GBAVT;Telia;abonnement;TELIA JUNIOR 1GB avtaletid eller svitsj;NEI;C;2023-03-17 00:00:00;;EKSTRAKODER GJELDER IKKE PÅ DETTE ABONNEMENTET.
+TELIATRYGG;Telia;abonnement;TELIA TRYGG;NEI;;;;Star der prisplanen ellers star i Telia-oppsummeringen (Magnus 2026-07-20). Egen linje pr. abonnement som har Telia Trygg.
 TELIAXBASIS;Telia;abonnement;TELIA X BASIS uten avtaletid;NEI;C;2023-03-17 00:00:00;;Nysalg uten binding, portering uten binding, gjelder ikke oppgradering av eksisterende Teliakunde
 TELIAXINTRO;Telia;abonnement;TELIA X INTRO uten avtaletid;NEI;C;1.9.25;;Nysalg uten binding, portering uten binding, gjelder ikke oppgradering av eksisterende Teliakunde
 TELIAXMAX;Telia;abonnement;TELIA X MAX uten avtaletid;NEI;C;2023-03-17 00:00:00;;Nysalg uten binding, portering uten binding, gjelder ikke oppgradering av eksisterende Teliakunde
