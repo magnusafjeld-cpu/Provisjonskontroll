@@ -1,0 +1,17 @@
+{
+  "nedlasting": "https://engage.cloud.microsoft/main/org/elkjop.no/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiIyMjM0NzM5NTg5MTIifQ",
+  "minste_stottede_versjon": "",
+  "versjoner": [
+    {
+      "versjon": "2026-07-22_1058",
+      "dato": "2026-07-22",
+      "endringer": [
+        "Programmet henger ikke lenger fast etter Blueberry-hentingen på travle dager",
+        "Leser nå riktig antall koder i kompakt visning i Blueberry",
+        "Telia og Telenor finner selv frem til ordrelista ved oppstart",
+        "Ny knapp for å starte en ny kontroll uten å laste siden på nytt",
+        "Snarveien for å hente og kjøre alt samtidig er flyttet til egen boks, tydeligere skilt fra de vanlige stegene"
+      ]
+    }
+  ]
+}
