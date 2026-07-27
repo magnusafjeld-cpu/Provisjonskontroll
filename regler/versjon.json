@@ -3,6 +3,18 @@
   "minste_stottede_versjon": "",
   "versjoner": [
     {
+      "versjon": "1.4",
+      "dato": "2026-07-27",
+      "endringer": [
+        "Splitt: en splitt registrert hos Telenor blir nå funnet. Programmet leser splitt-avtalen og kobler den til salget via telefonens IMEI, også når eier er ukjent.",
+        "Velger du mer enn én dag, må du nå bekrefte det. Da starter ingen lang kontroll ved et uhell.",
+        "Flere nye kontroller som stopper og sier fra hvis noe ikke ble hentet riktig, i stedet for å vise et svar som ser riktig ut.",
+        "Programmet sier fra hvis selgerkoden eller datoene er endret etter at Blueberry ble hentet, slik at resultatet alltid gjelder det skjermen viser.",
+        "Versjonene heter nå v1.4 i stedet for en dato, både på fila og inne i programmet.",
+        "Nedlastingen er blitt mindre: 118 MB mot 124 MB."
+      ]
+    },
+    {
       "versjon": "2026-07-27_1029",
       "dato": "2026-07-27",
       "endringer": [
