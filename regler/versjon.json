@@ -3,6 +3,18 @@
   "minste_stottede_versjon": "",
   "versjoner": [
     {
+      "versjon": "2026-07-27_1029",
+      "dato": "2026-07-27",
+      "endringer": [
+        "Du kan nå kontrollere flere dager om gangen, ikke bare én. Best ytelse er fortsatt én dag av gangen.",
+        "Du kan skrive inn en selgerkode og se over én person. Programmet svarer da på om denne personens koder har et salg.",
+        "Programmet sier fra hvis du kjører en gammel versjon, og viser hva som er nytt.",
+        "Telenor-kontrollen er raskere over flere dager: ett søk for hele perioden i stedet for ett søk per dag.",
+        "Rettet: en kontroll over flere dager kunne vise avvik som ikke var ekte, fordi bare den første dagen ble hentet hos operatøren.",
+        "Nye vakter stopper kontrollen og sier fra hvis noe ikke ble hentet riktig, i stedet for å vise et svar som ser riktig ut."
+      ]
+    },
+    {
       "versjon": "2026-07-22_1058",
       "dato": "2026-07-22",
       "endringer": [
