@@ -3,6 +3,18 @@
   "minste_stottede_versjon": "",
   "versjoner": [
     {
+      "versjon": "1.4.2",
+      "dato": "2026-07-29",
+      "endringer": [
+        "Nytt: programmet sjekker at det er SAMME telefon hos operatøren og i Blueberry. Ulik IMEI kommer opp som gul, med begge numrene, så du kan rette den.",
+        "Lik IMEI teller nå som bevis på at ordrene hører sammen. Det gir færre unødvendige avvik når referansen mangler eller er feil.",
+        "Virker for ice, Telia og Telenor. Hos ice leser programmet selv opp telefonlinja for å få fram IMEI, slik du ellers måtte klikke deg til.",
+        "Rettet: utpakkingen av zip-fila kunne stoppe med «Banen er for lang» (feil 0x80010135). Det rammet deg som har Downloads-mappa i OneDrive.",
+        "Fikk du den meldingen og trykket «Hopp over»? Installasjonen din var likevel komplett. Denne versjonen unngår problemet helt.",
+        "Nedlastingen er blitt mindre: 102 MB mot 118 MB."
+      ]
+    },
+    {
       "versjon": "1.4",
       "dato": "2026-07-27",
       "endringer": [
